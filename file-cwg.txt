@@ -1,0 +1,17 @@
+<section class="section" id="cupola">
+  <div class="container">
+    <div class="feature">
+      <div>
+        <span class="eyebrow">Sight on Station</span>
+        <h2>The Cupola: Window to the World</h2>
+        <p class="muted">The Cupola is a seven‑window observatory on the ISS providing panoramic views of Earth and space. Astronauts use it to take photographs, monitor visiting spacecraft, and precisely control the Canadarm2 robotic arm.</p>
+        <div class="split">
+          <div class="card">
+            <h3>What astronauts see</h3>
+            <p class="muted">Sunrises every 90 minutes. Lightning storms sprawled across continents. Green ribbons of aurora dancing at eye level. City lights tracing human activity across the planet.</p>
+            <div class="vis" aria-label="Orbit visualization">
+              <div class="orbit"><div class="circle"></div></div>
+            </div>
+            <p class="caption">The ISS orbits Earth about every 90 minutes—roughly 16 sunrises and sunsets per day.</p>
+          </div>
+          <div
